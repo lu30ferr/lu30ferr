@@ -1,11 +1,11 @@
 <h1 align="center">🚀 Welcome To Moein's Workspace</h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=🔥+Server+Architect+(FiveM+%26+Minecraft);🤖+Bot+%26+Script+Developer;🎨+UI/UX+Designer+(Adobe+XD);🎬+Content+Creator+%26+YouTuber" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🔥+Full-Stack+Software+Engineer;🎮+Server+Architect+(FiveM+%26+Minecraft);🤖+Bot+%26+Script+Developer;🎨+UI/UX+%26+Graphic+Designer;🎬+Content+Creator+%26+YouTuber" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <strong>Crafting epic gaming servers, smart bots, and stunning visuals. 🌌</strong>
+  <strong>Bridging the gap between flawless code, epic gaming servers, and stunning designs. 🌌</strong>
 </p>
 
 <p align="center">
@@ -19,19 +19,19 @@
 ---
 
 ## ⚡ The Man Behind The Code
+* 💻 **Software Engineering:** Full-Stack web development (React, Node, Django) & fluent in **Python**, **Java**, and **JavaScript**.
 * 🎮 **Gaming Infrastructure:** Setting up, configuring, and managing custom **FiveM** and **Minecraft** servers.
 * 🤖 **Automation & Logic:** Writing custom scripts and developing smart bots.
-* 🎨 **Design to Code:** Crafting smooth UI/UX experiences using **Adobe XD**, Photoshop, and Illustrator.
+* 🎨 **Design to Code:** Crafting smooth UI/UX and graphics using **Adobe XD**, **Photoshop**, **Illustrator**, and **Figma**.
 * 🎬 **Content Creator:** Running an active YouTube channel for my projects and ideas.
-* 💻 **Tech Stack:** Python, JavaScript, Java, and getting my hands dirty with backend systems.
 * 📍 **Base:** Iran 🦁☀️
 
 ---
 
 ## 🛠️ Tech Arsenal & Skills
 <p align="center">
-  <!-- آیکون‌های جدید برای ربات‌سازی، سرور و طراحی اضافه شد -->
-  <img src="https://skillicons.dev/icons?i=xd,photoshop,illustrator,pr,python,js,java,discord,nodejs,git,github,linux&perline=8" alt="Tech Skills" />
+  <!-- لیست کامل مهارت‌های برنامه‌نویسی، پایگاه داده، گرافیک و شبکه -->
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,nextjs,nodejs,django,mongodb,postgres,docker,git,github,photoshop,illustrator,pr,figma,xd,discord,linux&perline=11" alt="Tech Skills" />
 </p>
 
 ---
@@ -45,7 +45,6 @@
 
 ## 📈 Dynamic GitHub Analytics
 <p align="center">
-  <!-- ارور این عکس با حذف ویژگی‌های حساس برطرف شد -->
   <img src="https://github-readme-stats.vercel.app/api?username=Lu30ferr&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=3B82F6" alt="GitHub Stats" />
 </p>
 <p align="center">
@@ -53,4 +52,4 @@
 </p>
 
 ---
-<p align="center">⭐ Handcrafted by <b>Moein Sefidbani</b> | 20yo Student & Creator 🚀</p>
+<p align="center">⭐ Handcrafted by <b>Moein Sefidbani</b> | 20yo Student, Developer & Creator 🚀</p>
