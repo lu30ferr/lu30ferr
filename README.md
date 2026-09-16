@@ -2,12 +2,15 @@
   <!-- هدر کپسولی متقارن (بالا) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:3B82F6&height=120&section=header" width="100%"/>
 
+  <h1>👋 Hello World! I'm Moein Sefidbani</h1>
+  <h3>Welcome to my creative workspace! Grab a coffee and look around ☕🌌</h3>
+
   <a href="https://luximo.ir/bio.html?id=6938b1c099cc02a93547d96d">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🔥+Full-Stack+Software+Engineer;🎮+Server+Architect+(FiveM+%26+Minecraft);🤖+Bot+%26+Script+Developer;🎨+UI/UX+%26+Graphic+Designer;🎬+Content+Creator+%26+YouTuber" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Bridging the gap between flawless code, epic gaming servers, and stunning designs. 🌌</strong>
+    <strong>Bridging the gap between flawless code, epic gaming servers, and stunning designs.</strong>
   </p>
 
   <p align="center">
