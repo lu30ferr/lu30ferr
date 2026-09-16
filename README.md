@@ -30,8 +30,8 @@
 
 ## 🛠️ Tech Arsenal & Skills
 <p align="center">
-  <!-- لیست کامل مهارت‌های برنامه‌نویسی، پایگاه داده، گرافیک و شبکه -->
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,nextjs,nodejs,django,mongodb,postgres,docker,git,github,photoshop,illustrator,pr,figma,xd,discord,linux&perline=11" alt="Tech Skills" />
+  <!-- لیست آپدیت شده مهارت‌ها (بدون لینوکس) -->
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,nextjs,nodejs,django,mongodb,postgres,docker,git,github,photoshop,illustrator,pr,figma,xd,discord&perline=10" alt="Tech Skills" />
 </p>
 
 ---
@@ -45,6 +45,7 @@
 
 ## 📈 Dynamic GitHub Analytics
 <p align="center">
+  <!-- لینک‌های نمودار بهینه‌سازی شد تا ارور Fetching Resource برطرف شود -->
   <img src="https://github-readme-stats.vercel.app/api?username=Lu30ferr&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=3B82F6" alt="GitHub Stats" />
 </p>
 <p align="center">
@@ -52,4 +53,4 @@
 </p>
 
 ---
-<p align="center">⭐ Handcrafted by <b>Moein Sefidbani</b> | 20yo Student, Developer & Creator 🚀</p>
+<p align="center">⭐ Handcrafted by <b>Moein Sefidbani</b> | 21yo Student, Developer & Creator 🚀</p>
